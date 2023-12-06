@@ -17,5 +17,4 @@ Feel free to start doing these in any order you like.
 2. If you don't, you can copy these over to repl.it and run it there. Tests wont be automated there so you will have to make use judgement to ensure if your code is correct
 
 3. #### Run Tests
-4. 1 run all test at one cammand -> node run test:all
-5. 2.to run indivisual test file -> jest ./tests/filename.test.js
+run all test at one cammand -> node run test:all

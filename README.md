@@ -1,5 +1,4 @@
 ## JavaScript Assignments
-
 You are provided empty JavaScript files (or having function signatures) in this directory. 
 You have to follow the instructions given in each file and write the code in the same file to complete the assignment.
 
@@ -16,3 +15,7 @@ Feel free to start doing these in any order you like.
 #### Development Setup
 1. If you have Node.js locally, you should run these on your machine 
 2. If you don't, you can copy these over to repl.it and run it there. Tests wont be automated there so you will have to make use judgement to ensure if your code is correct
+
+3. #### Run Tests
+4. 1 run all test at one cammand -> node run test:all
+5. 2.to run indivisual test file -> jest ./tests/filename.test.js
